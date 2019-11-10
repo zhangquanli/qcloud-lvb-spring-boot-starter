@@ -1,4 +1,4 @@
-package com.github.zhangquanli.qcloudlvb;
+package com.github.zhangquanli.qcloud.lvb;
 
 /**
  * QcloudLvb

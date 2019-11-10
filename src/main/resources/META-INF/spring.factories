@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-  com.github.zhangquanli.qcloudlvb.QcloudLvbAutoConfiguration
+  com.github.zhangquanli.qcloud.lvb.QcloudLvbAutoConfiguration

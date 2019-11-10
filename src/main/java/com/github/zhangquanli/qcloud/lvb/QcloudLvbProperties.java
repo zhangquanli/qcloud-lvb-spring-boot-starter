@@ -1,4 +1,4 @@
-package com.github.zhangquanli.qcloudlvb;
+package com.github.zhangquanli.qcloud.lvb;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
